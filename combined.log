@@ -1,0 +1,348 @@
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","level":"warn","message":"User not found"}
+{"Service":"Identity Service","level":"error","message":"User not found","statusCode":401}
+{"Service":"Identity Service","level":"info","message":"User registeration begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User registered successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User logout begin..."}
+{"Service":"Identity Service","level":"warn","message":"User logout successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User registeration begin..."}
+{"Service":"Identity Service","level":"warn","message":"username or email already exist"}
+{"Service":"Identity Service","level":"error","message":"username or email already exist","statusCode":402}
+{"Service":"Identity Service","level":"info","message":"User logout begin..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User logout begin..."}
+{"Service":"Identity Service","level":"warn","message":"User logout successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","code":"ECONNABORTED","expected":67,"length":67,"level":"error","message":"request aborted","received":0,"type":"request.aborted"}
+{"Service":"Identity Service","code":"ECONNABORTED","expected":67,"length":67,"level":"error","message":"request aborted","received":0,"type":"request.aborted"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","code":"ECONNABORTED","expected":67,"length":67,"level":"error","message":"request aborted","received":0,"type":"request.aborted"}
+{"Service":"Identity Service","code":"ECONNABORTED","expected":67,"length":67,"level":"error","message":"request aborted","received":0,"type":"request.aborted"}
+{"Service":"Identity Service","code":"ECONNABORTED","expected":67,"length":67,"level":"error","message":"request aborted","received":0,"type":"request.aborted"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Token Not Found Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Token Not Found Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","level":"warn","message":"Token Not Found Invalid Credentials"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"User login successfully"}
+{"Service":"Identity Service","level":"info","message":"User Refresh Token ..."}
+{"Service":"Identity Service","buffer":{"data":[104,187,252,230,174,40,190,161,115,195,136,116],"type":"Buffer"},"level":"warn","message":"Token Refreshed successfully"}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","level":"warn","message":"User not found"}
+{"Service":"Identity Service","level":"error","message":"User not found","statusCode":401}
+{"Service":"Identity Service","level":"info","message":"User login begin..."}
+{"Service":"Identity Service","level":"warn","message":"User not found"}
+{"Service":"Identity Service","level":"error","message":"User not found","statusCode":401}
+{"Service":"Identity Service","level":"info","message":"User registeration begin..."}
+{"Service":"Identity Service","level":"warn","message":"username or email already exist"}
+{"Service":"Identity Service","level":"error","message":"username or email already exist","statusCode":402}

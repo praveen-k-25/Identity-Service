@@ -1,0 +1,10 @@
+{"Service":"Identity Service","level":"error","message":"User not found","statusCode":401}
+{"Service":"Identity Service","level":"error","message":"username or email already exist","statusCode":402}
+{"Service":"Identity Service","code":"ECONNABORTED","expected":67,"length":67,"level":"error","message":"request aborted","received":0,"type":"request.aborted"}
+{"Service":"Identity Service","code":"ECONNABORTED","expected":67,"length":67,"level":"error","message":"request aborted","received":0,"type":"request.aborted"}
+{"Service":"Identity Service","code":"ECONNABORTED","expected":67,"length":67,"level":"error","message":"request aborted","received":0,"type":"request.aborted"}
+{"Service":"Identity Service","code":"ECONNABORTED","expected":67,"length":67,"level":"error","message":"request aborted","received":0,"type":"request.aborted"}
+{"Service":"Identity Service","code":"ECONNABORTED","expected":67,"length":67,"level":"error","message":"request aborted","received":0,"type":"request.aborted"}
+{"Service":"Identity Service","level":"error","message":"User not found","statusCode":401}
+{"Service":"Identity Service","level":"error","message":"User not found","statusCode":401}
+{"Service":"Identity Service","level":"error","message":"username or email already exist","statusCode":402}
