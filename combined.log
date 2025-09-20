@@ -346,3 +346,9 @@
 {"Service":"Identity Service","level":"info","message":"User registeration begin..."}
 {"Service":"Identity Service","level":"warn","message":"username or email already exist"}
 {"Service":"Identity Service","level":"error","message":"username or email already exist","statusCode":402}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}
+{"Service":"Identity Service","level":"info","message":"Server is running on port 4001"}
+{"Service":"Identity Service","level":"info","message":"Identity Service database connected"}

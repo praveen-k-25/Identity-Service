@@ -3,7 +3,7 @@ const mapSet = new Map();
 function rateLimiter(req, res, next) {
   const ip = req.ip;
   const windowSize = 60 * 1000;
-  const limitCount = 10;
+  const limitCount = 100;
   const timestamp = Date.now();
 
   if (!mapSet.has(ip)) {
