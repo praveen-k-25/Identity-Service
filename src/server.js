@@ -52,7 +52,7 @@ app.use(
   })
 );
 app.use(express.json());
-app.use((req, res, next) => rateLimiter(req, res, next));
+//app.use((req, res, next) => rateLimiter(req, res, next));
 app.use(etagMiddleware);
 // router
 app.use("/api", router);
